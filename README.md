@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats-git-master-curtismills-projects.vercel.app/api?username=curtismills" />
+<img src="https://github-readme-stats-git-master-curtismills-projects.vercel.app/api?username=curtismills&show_icons=true" />
 
 <!--
 **CurtisMills/CurtisMills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
