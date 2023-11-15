@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats-git-master-curtismills-projects.vercel.app/api?username=curtismills&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img src="https://github-readme-stats-git-master-curtismills-projects.vercel.app/api?username=curtismills&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
 
-[![Top Langs](https://github-readme-stats-git-master-curtismills-projects.vercel.app/api/top-langs/?username=curtismills&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats-git-master-curtismills-projects.vercel.app/api/wakatime?username=curtismills)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-curtismills-projects.vercel.app/api/top-langs/?username=curtismills&langs_count=12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CurtisMills/CurtisMills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
