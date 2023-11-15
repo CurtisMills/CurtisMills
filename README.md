@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats-git-master-curtismills-projects.vercel.app/api?username=curtismills&show_icons=true" />
+<img src="https://github-readme-stats-git-master-curtismills-projects.vercel.app/api?username=curtismills&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 [![Top Langs](https://github-readme-stats-git-master-curtismills-projects.vercel.app/api/top-langs/?username=curtismills&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
