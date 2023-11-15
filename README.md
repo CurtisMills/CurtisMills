@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=curtismills](https://my-github-stats-git-dependabot-npma-221c62-curtismills-projects.vercel.app))]
+[![Curtis's GitHub stats]([https://github-readme-stats-git-master-curtismills-projects.vercel.app/api?username=curtismills](https://my-github-stats-git-dependabot-npma-221c62-curtismills-projects.vercel.app))]
 <!--
 **CurtisMills/CurtisMills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+github-readme-stats-git-master-curtismills-projects.vercel.app
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
