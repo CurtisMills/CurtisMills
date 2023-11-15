@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Curtis's GitHub stats](https://my-github-stats-nsi8z8khm-curtismills-projects.vercel.app/api?usename=curtismills)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtismills)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CurtisMills/CurtisMills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
